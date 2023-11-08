@@ -8,8 +8,6 @@
 
 [<img align="left" alt="taqanarslan | Medium" width="28px" src="https://user-images.githubusercontent.com/63793311/224951326-4d114e8e-d747-4266-9f38-c7b5b3e59bc9.svg" />](https://medium.com/@taqanars)
 
-[<img align="left" alt="taqanarslan | Instagram" width="28px" src="https://user-images.githubusercontent.com/63793311/224951674-f546f07d-0248-4896-98be-88f318cf9a85.png" />](https://www.instagram.com/taqanarslan/)
-
 <br />
 <br />
 
